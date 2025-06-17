@@ -2,5 +2,5 @@
 This is my first git repos
 <br>
 read-me file thats called 
-author - rajveer singh
+author - rajveer singh (mangalmay)
  # this is second day of git hub
